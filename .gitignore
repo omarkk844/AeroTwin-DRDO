@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+.env
+frontend/dist/drdo_rustom_2_uav.glb
+frontend/dist/rustom.glb
+frontend/public/drdo_rustom_2_uav.glb
+*.glb

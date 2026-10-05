@@ -1,0 +1,13 @@
+# AeroTwin: Predictive Digital Twin for UAV Engines
+# Problem Statement: 26054 (DRDO) | Team EMERGE-X
+# Backend Dependencies
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+torch>=2.2.0
+scipy>=1.12.0
+numpy>=1.26.0
+python-dotenv>=1.0.1
+httpx>=0.27.0
+websockets>=12.0
